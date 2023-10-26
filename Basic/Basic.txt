@@ -1,0 +1,6 @@
+
+Pouvez-vous me dire quelle est la différence entre Fast Ethernet 0/1 et 1/1 ?
+
+La différence entre Fast Ethernet 0/1 et 1/1 c’est pour définir l’état 
+de connection du port ethernet émetteur et l’état port ethernet récepteur. 
+Le “/1” détermine l’emplacement du port.
